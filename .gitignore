@@ -1,0 +1,10 @@
+log_data/
+__pycache__/
+*/__pycache__/
+*.py[cod]
+*$py.clas
+
+leaderboard/
+report_logs/
+videos/
+note.txt

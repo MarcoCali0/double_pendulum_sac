@@ -1,0 +1,2 @@
+Controller,Short Controller Description,Model [%],Velocity Noise [%],Torque Noise [%],Torque Step Response [%],Time delay [%],Perturbations [%],Overall Robustness Score,Username
+sac,SAC for both swingup and stabilisation,15.7,47.6,100.0,100.0,42.9,100.0,0.677,MarcoCali0

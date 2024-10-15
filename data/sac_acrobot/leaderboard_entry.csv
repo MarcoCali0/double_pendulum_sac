@@ -1,0 +1,2 @@
+Controller,Short Controller Description,Swingup Success,Swingup Time [s],Energy [J],Torque Cost[N²m²],Torque Smoothness [Nm],Velocity Cost [m²/s²],RealAI Score,Username
+sac,SAC for both swingup and stabilisation,1/1,1.39,12.62,2.62,0.016,165.89,0.5,MarcoCali0

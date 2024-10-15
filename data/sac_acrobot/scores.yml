@@ -1,0 +1,6 @@
+delay: 0.42857142857142855
+measurement_noise: 0.47619047619047616
+model: 0.15714285714285714
+perturbation: 1.0
+u_noise: 1.0
+u_responsiveness: 1.0
